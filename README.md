@@ -13,7 +13,7 @@
   </a>
 </div>
 <h1 align="center" >
-    <img src="https://komarev.com/ghpvc/?username=CarlBrendt&style=flat-square&color=blue" width="300" height="50px" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=CarlBrendt&style=flat-square&color=blue" width="200" height="50px" alt=""/>
 </h1>
 <h1 align="center">
   ClearVisionPlace
