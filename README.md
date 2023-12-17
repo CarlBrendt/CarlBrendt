@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://huggingface.co/CarlBrendt">
-    <img src="https://img.shields.io/badge/HuggFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/HuggingfaceFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <h1 align="center" >
