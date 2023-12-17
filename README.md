@@ -23,6 +23,7 @@
 
 ### :computer:About Me:
 Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I`m a Computer Vision Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia/China.
+- telescope: I'm working as a Computer Vision/Machine Learning Engineer and contribute to the backend of smart web applications using artificial intelligence.
 <!--
 **CarlBrendt/CarlBrendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
