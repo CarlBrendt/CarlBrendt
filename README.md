@@ -1,8 +1,18 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="150"/>
 </div>
+<div id="badges">
+  <a href="https://t.me/LifeSjokegg">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/@carlbrendt9036?si=ZPBy20T5HNQJw0W7L">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://huggingface.co/CarlBrendt">
+    <img src="https://img.shields.io/badge/HuggigngFace-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!--
 **CarlBrendt/CarlBrendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
