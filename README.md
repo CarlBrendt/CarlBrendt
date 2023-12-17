@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img  align="center" src="https://komarev.com/ghpvc/?username=CarlBrendt&style=flat-square&color=blue" alt=""/>
+<h1  align="center" >
+    <img src="https://komarev.com/ghpvc/?username=CarlBrendt&style=flat-square&color=blue" alt=""/>
+</h1>
 <h1  align="center">
   ClearVisionPlace
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"/>
