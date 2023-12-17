@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://huggingface.co/CarlBrendt">
-    <img src="https://img.shields.io/badge/HuggFace-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img  align="center" src="https://komarev.com/ghpvc/?username=CarlBrendt&style=flat-square&color=blue" alt=""/>
@@ -23,5 +23,7 @@
 
 ### :computer:About Me:
 Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I`m a Computer Vision Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia/China.
-- :nerd_face: I'm currently working as a Computer Vision/Machine Learning Engineer and contribute to the backend of smart web applications using Artificial Intelligence.
+- :nerd_face: I'm currently working as a Computer Vision/Machine Learning Engineer and contribute to the backend of smart web applications using Artificial Intelligence
+- :kite: Exploring and enjoying artificial intelligence
+- :trophy: In my spare time, I participate in AI competitions with interesting business cases. I have been a finalist in more than three competitions 
 
