@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/HuggFace-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarlBrendt&style=flat-square&color=blue" alt=""/>
+  
+</div>
 <!--
 **CarlBrendt/CarlBrendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
