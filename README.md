@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="300"/>
 </div>
 
-###:computer:About Me:
+### :computer:About Me:
 Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I`m a Computer Vision Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia/China.
 <!--
 **CarlBrendt/CarlBrendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
