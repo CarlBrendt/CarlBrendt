@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="300"/>
 </div>
 <!--
 **CarlBrendt/CarlBrendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
