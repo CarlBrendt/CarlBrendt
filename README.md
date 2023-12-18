@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=CarlBrendt&style=flat-square&color=blue" width="125px" height="28px" alt=""/>
 </h1>
 <h1 align="center">
-  ComputerVisionPlace
+  SmartVisionPlace
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
