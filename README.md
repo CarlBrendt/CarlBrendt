@@ -25,7 +25,7 @@
 
 ### :computer:About Me:
 Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I`m a Computer Vision Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia working for UAE and Russia.
-- :nerd_face: I'm currently working as a Computer Vision/Machine Learning Engineer and contribute to the backend of smart web applications with Artificial Intelligence
+- :nerd_face: I'm currently working as a Computer Vision/Machine Learning Senior Engineer at MWS AI and contribute to the backend of smart web applications with Artificial Intelligence
 - :kite: Exploring and enjoying Artificial Intelligence
 - :trophy: In my spare time, I participate in AI competitions with interesting business cases. I have been a finalist in more than four competitions
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/u/polinateam0@gmail.com)
